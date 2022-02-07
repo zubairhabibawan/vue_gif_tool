@@ -1,0 +1,27 @@
+{
+    "name": "gif_tool_updated_01",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "bootstrap": "^4.6.0",
+        "bootstrap-vue": "^2.21.2",
+        "core-js": "^3.6.5",
+        "gif-frames": "^1.0.1",
+        "lodash": "^4.17.21",
+        "moveable": "^0.25.3",
+        "pubsub-js": "^1.9.4",
+        "selecto": "^1.13.2",
+        "postscribe": "^2.0.8",
+        "vue": "^2.6.11"
+    },
+    "devDependencies": {
+        "@vue/cli-plugin-babel": "~4.5.0",
+        "@vue/cli-service": "~4.5.0",
+        "vue-template-compiler": "^2.6.11"
+    }
+}
