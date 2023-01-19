@@ -1,6 +1,8 @@
-# gif_tool_updated_01
+# gif_tool
 
 ## Project setup
+
+Please download gif folder this is built for specific type of gifs 
 ```
 npm install
 ```
