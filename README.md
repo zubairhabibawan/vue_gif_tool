@@ -2,7 +2,7 @@
 
 ## Project setup
 
-Please download gif folder this is built for specific type of gifs 
+Please download gifs from public folder because this tool is built for specific type of gifs 
 ```
 npm install
 ```
